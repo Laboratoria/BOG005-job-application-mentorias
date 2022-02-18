@@ -1,2 +1,3 @@
-# job-application-public
-Recursos para el proyecto Job Application
+# Job Application
+
+Recursos para el proyecto Job Application abiertos a personas externas
