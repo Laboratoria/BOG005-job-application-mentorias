@@ -122,6 +122,13 @@ Pronto en este [apartado]()
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
+
+|                 Actividades                  |   Tipo   | Semana   | Día/hora |
+|----------------------------------------------|----------|----------|---------:|
+| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
+| Simulación de entrevista técnica.            | Abierta  |          |          |
+| Enviado de formulario de feedback al equipo. | Abierta  |          |          |
+
 ## Consideraciones generales
 
 * Este es un proyecto individual que las estudiantes irán avanzando en paralelo
