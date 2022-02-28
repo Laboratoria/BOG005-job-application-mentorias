@@ -94,6 +94,15 @@ ellas y el equipo de Laboratoria.
 Pronto en este [apartado]()
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.
+
+|                    Actividades                     |   Tipo   | Semana   | Día/hora |
+|----------------------------------------------------|----------|----------|---------:|
+| Sesión de Q&A sobre el programa                    |   Fija   |          |          |
+| Sesión de Meet & Greet y revisión y feedback de CV |   Fija   |          |          |
+| Sesión de revisión y feedback de LinkedIn.         | Abierta  |          |          |
+| Simulación de entrevista de recursos humanos.      |  Abierta |          |          |
+| Enviado de formulario de feedback al equipo        | Abierta  |          |          |
+
 ## Mentorías Técnicas 
 
 Quiénes participen de las **simulaciones de entrevistas técnicas y de la
