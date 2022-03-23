@@ -91,7 +91,7 @@ ellas y el equipo de Laboratoria.
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
-**En este [apartado](./01-hr-mentoring/interviewer-guide)
+**En este [apartado](../01-hr-mentoring/interviewer-guide)
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
