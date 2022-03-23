@@ -91,9 +91,9 @@ ellas y el equipo de Laboratoria.
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
-Pronto en este [apartado]()
+**En este [apartado](https://github.com/OfeliaR/job-application-public/tree/main/01-hr-mentoring/interviewer-guide)
 podrás consultar los objetivos a alcanzar con la
-revisión y feedback de herramientas y con la simulación.
+revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|---------:|
@@ -118,7 +118,7 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto en este [apartado]()
+Pronto este [apartado]()
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
