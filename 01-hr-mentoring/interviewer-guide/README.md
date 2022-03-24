@@ -44,7 +44,7 @@ Durante ambas sesiones te recomendamos:
 * Es muy importante que te enfoques en los **_porqué_**, más que en los **_cómo_**. 
 * No olvides que será un proceso de iteración constante por lo que aún cuándo hayan terminado las sesiones, ellas seguirán mejorándolas.
 
-**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/17juR50I4eoJn2RGf9_NJFtmHDAOeQfXBybt1y0Qb-rY/edit) que llenarás después de las dos sesiones de revisión.**
+**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdmFDN6kXPrlzrSoACZ0plnYRFFj-z-7-elSKdgY-M_tGy6kg/viewform) que llenarás después de las dos sesiones de revisión.**
 
 * **Estructura**
      * La redacción es clara y concisa
@@ -103,7 +103,7 @@ Las preguntas que te compartimos a continuación son **solo un ejemplo** de lo q
 
 Recuerda que al finalizar, la estudiante procurará pedirte feedback, recuerda enfocarlo en comportamientos que puedan ser modificados. Por ejemplo: *“Cuando hablaste de “X” pregunta, te mostraste titubeando, eso me hizo pensar que no tenías una idea tan clara. Te sugiero reflexionar sobre “X” punto, preparar la respuesta de manera más estructurada”.*
 
-**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/1gIeRcZhkM2DTvYB4f_FGoceXYNY2Ma_uvZADNH1UAtc/edit) que llenarás después de la simulación.**
+**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf0ODICZmeIjmawaLGENSf8A91GpSEE6njQEDBaKRyp_UozZg/viewform) que llenarás después de la simulación.**
 
 * **Sobre la entrevista:**
     * Si logra comunicar su perfil como desarrolladora web
