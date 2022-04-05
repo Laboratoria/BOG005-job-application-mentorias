@@ -75,13 +75,13 @@ ellas y el equipo de Laboratoria.
 * 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
-* 2 sesiones de revisión y feedback de CV y LinkedIn con la primera estudiante
+* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
  que te hayamos asignado como mentee. 
-  - Sesión _meet & greet_ + revisión y feedback de CV. Espacio programado por
+  - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
   el equipo de Laboratoria que se dividirá en 2 momentos:
     * Dinámica para conocer a la estudiante que será tu mentee.
     * Revisión y feedback de CV 
-  - Sesión de revisión y feedback de LinkedIn y feedback. Espacio programado
+  - Sesión 2: Revisión y feedback de LinkedIn y feedback. Espacio programado
   por la estudiante directamente con su mentora o mentor.
 * 1 simulación de entrevista de recursos humanos. Actividad programada por una
  estudiante distinta a quién acompañaste durante las sesiones de revisión de
