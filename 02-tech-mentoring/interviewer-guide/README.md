@@ -21,25 +21,27 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies
 _feedback por correo electrónico_ a las estudiantes sobre su desempeño y llenar
-un _scorecard_ ([Typeform](https://laboratoria.typeform.com/JA-techmock)) con la
+un [_scorecard_]() con la
 evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
 adaptarlo y aplicarlo como creas conveniente.
 
-Imaginamos que cada entrevista debería durar entre **45~60min**.
+Imaginamos que cada entrevista debería durar entre **30~60min**.
 
 ## Objetivo
 
 Esta dinámica tiene 2 objetivos principales:
 * El primero, como comentábamos al principio, es que las estudiantes tengan la
-  posibilidad de tener una experiencia de postulación lo más parecida a una
+  posibilidad de tener **una experiencia de postulación** lo más parecida a una
   real, dentro del marco del Bootcamp.
-* El segundo es conocer tu perspectiva sobre el potencial de la candidata, en
-  particular alrededor de estos tres puntos:
-  - Conocimiento/entendimiento del lenguaje.
-  - Método de análisis y solución de problemas. ¿Cómo se enfrentó al ejercicio?
-  - Comunicación. La claridad para explicar su entendimiento de terminos
+* El segundo es conocer tu perspectiva sobre el **potencial de la candidata**,
+  en particular alrededor de estos tres puntos:
+  - Conocimiento/entendimiento del desarrollo de software, en particular
+    Javascript.
+  - Estrategias de análisis y solución de problemas. ¿Cómo se enfrentó al/los
+    ejercicio/s?
+  - Comunicación. La claridad para explicar su estrategia, el uso de términos
     técnicos, experiencia y propuesta de solución.
 
 ## La dinámica
@@ -47,7 +49,7 @@ Esta dinámica tiene 2 objetivos principales:
 Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
 de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
 totalmente diferentes y siempre vale la pena iniciar una conversación distendida
-para "romper el hielo" y que se sientan más cómodas.
+para _"romper el hielo"_ y que se sientan más cómodas.
 
 Puedes preguntarles sobre su trayectoria, los proyectos que ya han desarrollado
 y lo que han aprendido hasta ahora. También es interesante terminar la dinámica
@@ -90,7 +92,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   usando términos técnicos.
 
   Este es un buen punto para identificar el nivel de confianza con la que llega
-  la candidata y te puede ayudar a ti a decidir la dificultad y tipo de
+  la candidata y te puede ayudar a decidir la dificultad y tipo de
   ejercicio que quieres proponerle.
   
   Al momento de hacer las preguntas, recuerda vocalizar los términos con
@@ -136,6 +138,8 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
     totalmente válido si la estudiante acude a Google en busca de ayuda, sobre
     todo si es documentación o foros. Observar claramente qué busca, nos sirve
     para evaluar cómo investiga.
+  - Si eliges ejercicios distintos a los propuestos, asergúrate que tengan
+    dificultades, topics y duración similares.
 
 - **Cierre**
 
@@ -162,7 +166,7 @@ en concreto que te recomendamos:
 
 Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
 sobre cada bloque. Es muy importante que en cada sección refuerces tanto los
-aspectos positivos como aquellos que necesitan mejorarse.
+**aspectos positivos** como aquellos que **necesitan mejorarse**.
 
 Además, sería valioso que puedas darle tu apreciación sobre sus respuestas de la
 forma más objetiva posible, comunicándole el impacto que tiene dicho concepto o
@@ -176,6 +180,9 @@ recursos relevantes a los que pueda sacarle valor rápidamente.
 - ¿Se mostró predispuesta y proactiva para la coordinación de la entrevista?
 - ¿Llegó puntual?
 
+#### Presentación
+- ¿Cómo calificas las presentación que hizo de sí misma?
+
 #### Preguntas conceptuales
 - ¿Cómo calificas sus respuestas a las preguntas conceptuales?
 
@@ -183,6 +190,10 @@ recursos relevantes a los que pueda sacarle valor rápidamente.
 - ¿Completó el 1er ejercicio?
 - ¿Completó el 2ndo ejercicio?
 - ¿Compartió su razonamiento y estrategias de solución de forma asertiva?
+
+#### Perfil de Github
+- ¿Cómo calificas su perfil de Github?
+- ¿Cómo podría mejorarlo?
 
 Y por último compartirle si es que detectaste en su actitud algo notable o algo
 por trabajar (seguridad, nervios, fluidez en sus ideas, etc.), recomendar
@@ -194,9 +205,9 @@ Vale la pena mantener siempre **un tono positivo** en la retroalimentación y
 tratar de proporcionar **información concreta** y, si es posible, **enlaces,
 recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
 en los puntos que podría mejorar.
-  
-2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_
-([Typeform](https://laboratoria.typeform.com/JA-techmock)) que te pedirá evaluar
+
+2)**Feedback hacia el equipo**, el que realizarás a través de un 
+[_score card_]() que te pedirá evaluar
 su desempeño en los distintos aspectos que integran la simulación y dejarnos
 recomendaciones para el equipo.
 
