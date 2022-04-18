@@ -91,7 +91,7 @@ ellas y el equipo de Laboratoria.
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
-**En este [apartado](../01-hr-mentoring/interviewer-guide)
+**En este [apartado](../01-hr-mentoring/interviewer-guide/README.md)
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
@@ -101,7 +101,7 @@ revisión y feedback de herramientas y con la simulación.**
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviado de formulario de feedback al equipo         | Abierta  |          |          |
+| Envío de formulario de feedback al equipo           | Abierta  |          |          |
 
 ## Mentorías Técnicas 
 
@@ -118,7 +118,7 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto este [apartado]()
+Pronto este [apartado](../02-tech-mentoring/interviewer-guide/README.md)
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
@@ -127,7 +127,8 @@ todavía estamos terminando de definir algunos detalles.
 |----------------------------------------------|----------|----------|---------:|
 | Sesión de Q&A sobre el programa.             |   Fija   |          |          |
 | Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviado de formulario de feedback al equipo. | Abierta  |          |          |
+| Envío de feedback escrito a estudiante.      | Abierta  |          |          |
+| Envío de formulario de feedback al equipo.   | Abierta  |          |          |
 
 ## Consideraciones generales
 
