@@ -15,3 +15,5 @@ maskify("64607935616"); // => "#######5616"
 maskify("1"); // => "1"
 maskify(""); // => ""
 ```
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/09-mask-credit-card/boilerplate/)
