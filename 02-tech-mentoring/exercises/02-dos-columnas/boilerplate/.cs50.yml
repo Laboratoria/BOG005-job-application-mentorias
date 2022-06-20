@@ -1,5 +1,1 @@
-lab50:
-  window:
-    - editor
-    - readme
-    - browser
+lab50: true
