@@ -1,4 +1,4 @@
-const chunk = require(`./chunk`);
+const chunk = require('./chunk');
 
 describe('chunk', () => {
   test('chunk divides an array of 10 elements with chunk size 2', () => {

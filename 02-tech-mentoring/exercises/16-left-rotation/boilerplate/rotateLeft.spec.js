@@ -1,4 +1,4 @@
-const fn = require(`./rotateLeft`);
+const fn = require('./rotateLeft');
 
 describe('rotateLeft', () => {
   [

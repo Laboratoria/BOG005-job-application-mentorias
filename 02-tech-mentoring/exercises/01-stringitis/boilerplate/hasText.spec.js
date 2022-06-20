@@ -1,4 +1,4 @@
-const hasText = require(`./hasText.js`);
+const hasText = require('./hasText.js');
 
 describe('has text', () => {
   [

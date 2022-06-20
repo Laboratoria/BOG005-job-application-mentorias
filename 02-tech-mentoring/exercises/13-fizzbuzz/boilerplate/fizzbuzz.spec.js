@@ -1,4 +1,4 @@
-const fizzbuzz = require(`./fizzbuzz`);
+const fizzbuzz = require('./fizzbuzz');
 
 describe('fizzbuzz', () => {
   beforeEach(() => {

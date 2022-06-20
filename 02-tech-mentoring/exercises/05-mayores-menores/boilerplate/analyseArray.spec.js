@@ -1,4 +1,4 @@
-const analyseArray = require(`./analyseArray`);
+const analyseArray = require('./analyseArray');
 
 describe('analyseArray', () => {
   [

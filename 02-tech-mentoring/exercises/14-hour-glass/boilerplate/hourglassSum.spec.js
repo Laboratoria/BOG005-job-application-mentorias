@@ -1,4 +1,4 @@
-const fn = require(`./hourglassSum`);
+const fn = require('./hourglassSum');
 
 describe('hourglassSum', () => {
   [
@@ -35,7 +35,7 @@ describe('hourglassSum', () => {
 //
 // Tests for alternative input as single array
 //
-// const fn = require(`./hourglassSum`);
+// const fn = require('./hourglassSum');
 //
 // describe('hourglassSum', () => {
 //   [

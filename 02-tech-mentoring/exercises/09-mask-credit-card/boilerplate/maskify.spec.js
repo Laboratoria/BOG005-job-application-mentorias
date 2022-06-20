@@ -1,4 +1,4 @@
-const maskify = require(`./maskify`);
+const maskify = require('./maskify');
 
 describe('markify', () => {
   [

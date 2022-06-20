@@ -1,4 +1,4 @@
-const fn = require(`./dynamicArray`);
+const fn = require('./dynamicArray');
 
 describe('dynamicArray', () => {
   [

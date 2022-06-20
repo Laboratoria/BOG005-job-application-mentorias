@@ -1,4 +1,4 @@
-const countVowels = require(`./countVowels`);
+const countVowels = require('./countVowels');
 
 describe('countVowels', () => {
   [

@@ -1,4 +1,4 @@
-const getPrintableNames = require(`./getPrintableNames`);
+const getPrintableNames = require('./getPrintableNames');
 
 describe('getPrintableNames', () => {
   [

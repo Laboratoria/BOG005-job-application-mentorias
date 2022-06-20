@@ -1,7 +1,7 @@
 // Fuente (punto de partida) de las pruebas:
 // https://github.com/StephenGrider/AlgoCasts/tree/master/exercises/anagrams
 
-const anagrams = require(`./anagrams`);
+const anagrams = require('./anagrams');
 
 describe('anagrams', () => {
   it('should say "hello" is an anagram of "llohe"', () => {
