@@ -6,3 +6,6 @@
 - Establece un ancho mínimo y máximo para las columnas.
 - Asegúrate de que ambas columnas tengan siempre la misma altura.
 - En pantallas pequeñas, convierte el diseño en una sola columna.
+
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/02-dos-columnas/boilerplate/)

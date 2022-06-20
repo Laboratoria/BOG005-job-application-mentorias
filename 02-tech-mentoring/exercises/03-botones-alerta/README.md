@@ -13,3 +13,6 @@
 * Adjunta un solo `click handler` al padre de los botones.
 * Solo muestra la alerta la primera vez que se haga clic en un botón. Es decir,
   hacer clic una segunda vez al botón no mostrará la alerta de nuevo.
+
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/03-botones-alerta/boilerplate/)

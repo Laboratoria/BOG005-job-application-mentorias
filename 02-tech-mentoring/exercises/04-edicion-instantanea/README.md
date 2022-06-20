@@ -11,3 +11,6 @@ campo, queda el texto final `María`.
 
 Pista: Puedes usar un _callback_  para escuchar el evento `keyup` que se
 invocará cada vez que se presione una tecla.
+
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/04-edicion-instantanea/boilerplate/)
