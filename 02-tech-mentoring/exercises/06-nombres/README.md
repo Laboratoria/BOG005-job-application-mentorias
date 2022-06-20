@@ -13,3 +13,5 @@ const people = ['marie curie', 'Mary Anning', 'ada lovelace', 'SALLY RIDE'];
 console.log(getPrintableNames(people));
 // [ 'M. Curie', 'M. Anning', 'A. Lovelace', 'S. Ride' ]
 ```
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/06-nombres/boilerplate/)
