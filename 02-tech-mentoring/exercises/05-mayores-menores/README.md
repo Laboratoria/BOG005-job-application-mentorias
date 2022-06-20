@@ -18,3 +18,5 @@ console.log(max); // 100
 console.log(min); // -80
 console.log(max2); // 32
 ```
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/05-mayores-menores/boilerplate/)
