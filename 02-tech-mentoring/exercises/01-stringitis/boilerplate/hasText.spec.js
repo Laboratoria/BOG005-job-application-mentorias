@@ -1,7 +1,6 @@
+const hasText = require(`./hasText.js`);
 
-const hasText = require(`../solutions/${pathToSolution}`);
-
-describe(pathToSolution, () => {
+describe('has text', () => {
   [
     [['', ''], true],
     [['foo', ''], true],
