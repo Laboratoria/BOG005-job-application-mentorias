@@ -45,3 +45,5 @@ el orden en el que se presentaron.
 * `0 <= y <= Math.pow(10, 9)`
 * Tenemos la garantía de que las consultas de tipo `2` nunca tratarán de acceder
   un arreglo o índice vacíó o no definido.
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/15-dynamic-array/boilerplate/)
