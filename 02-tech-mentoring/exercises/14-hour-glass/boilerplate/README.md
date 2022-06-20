@@ -105,3 +105,5 @@ El _reloj de arena_ con la suma de mayor valor (`19`) es:
   2
 1 2 4
 ```
+
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/14-hour-glass/boilerplate/)
