@@ -45,6 +45,8 @@ industria, basada en lo que hemos aprendido acompañando a las más de 2,400
 egresadas de Laboratoria. Tú participación es clave porque les permitirá tener
 un acercamiento inicial a la búsqueda de empleo, que intentaremos sea lo más
 real posible.
+
+
 ## Mentorías durante el proyecto
 
 La participación de personas voluntarias como tú en el proyecto de Job
@@ -75,19 +77,13 @@ ellas y el equipo de Laboratoria.
 * 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
-* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
- que te hayamos asignado como mentee. 
-  - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
-  el equipo de Laboratoria que se dividirá en 2 momentos:
-    * Dinámica para conocer a la estudiante que será tu mentee.
-    * Revisión y feedback de CV 
-  - Sesión 2: Revisión y feedback de LinkedIn y feedback. Espacio programado
-  por la estudiante directamente con su mentora o mentor.
-* 1 simulación de entrevista de recursos humanos. Actividad programada por una
- estudiante distinta a quién acompañaste durante las sesiones de revisión de
- herramientas, esto lo hacemos para que la experiencia sea lo más parecido a la
- realidad y ella pueda tener una entrevista con una persona que recién está
- conociendo. La coordinación de la sesión será a través de un correo en el que
+* 2 sesiones de revisión y feedback de herramientas con la primera estudiante que te hayamos asignado como mentee. (1 sesión de revisión y 1 sesión de seguimiento al feedback) 
+  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado por
+  el equipo de Laboratoria.
+  - Sesión 2: Seguimiento a la incorporación de feedback. Espacio programado
+  por la estudiante directamente con su mentora/or.
+* 1 simulación de entrevista de recursos humanos con la segunda estudiante que te hayamos asignado como mentee. Actividad programada por la
+ estudiante. La coordinación de la sesión será a través de un correo en el que
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
@@ -96,12 +92,22 @@ podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
-|-----------------------------------------------------|----------|----------|---------:|
+|-----------------------------------------------------|----------|----------|----------|
 | Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
-| Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
+| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Envío de formulario de feedback al equipo           | Abierta  |          |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
+
+### Objetivos de aprendizaje
+
+Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de aprendizaje que permiten a las estudiantes enfocar sus esfuerzos y  reflexionar sobre lo logrado. Con tu participación en las mentorías de recursos humanos, ayudarás a las estudiantes a alcanzar los siguientes:
+
+- [ ] Entiendo cómo se vive en términos generales un proceso de selección en la industria. Qué etapas tiene y en qué consiste cada una.
+- [ ] Entiendo qué es y para qué sirve mi CV en el contexto de un proceso de búsqueda de trabajo en la industria tech.
+- [ ] Entiendo qué es y para qué sirve mi perfil de LinkedIn en este contexto.
+- [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
 
 ## Mentorías Técnicas 
 
@@ -113,22 +119,29 @@ documentar feedback para ellas y el equipo de Laboratoria.
 * 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
-* 1 simulación de entrevista técnica. Actividad programada por la o las
- estudiantes (según sea el caso) a través de un correo que simulará su interés
+* 1 simulación de entrevista técnica. Actividad programada por la estudiante a través de un correo que simulará su interés
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto este [apartado](../02-tech-mentoring/interviewer-guide/README.md)
+**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/00-context/README.md#mentor%C3%ADas-t%C3%A9cnicas)
 podrás consultar los objetivos alcanzar con la
-simulación y revisión y feedback de su Github profile. Para este apartado
-todavía estamos terminando de definir algunos detalles.
+simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
 | Sesión de Q&A sobre el programa.             |   Fija   |          |          |
 | Simulación de entrevista técnica.            | Abierta  |          |          |
-| Envío de feedback escrito a estudiante.      | Abierta  |          |          |
-| Envío de formulario de feedback al equipo.   | Abierta  |          |          |
+| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+
+### Objetivos de aprendizaje
+
+Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de aprendizaje que permiten a las estudiantes enfocar sus esfuerzos y  reflexionar sobre lo logrado. Con tu participación en las mentorías técnicas, ayudarás a las estudiantes a alcanzar los siguientes:
+
+- [ ] Entiendo cómo se vive en términos generales un proceso de selección en la industria. Qué etapas tiene y en qué consiste cada una.
+- [ ] Entiendo qué es y para qué sirve mi CV en el contexto de un proceso de búsqueda de trabajo en la industria tech.
+- [ ] Entiendo qué es y para qué sirve mi perfil de Github en este contexto.
+- [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
+- [ ] Identifico las habilidades técnicas que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
 
 ## Consideraciones generales
 

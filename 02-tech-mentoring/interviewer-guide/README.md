@@ -46,7 +46,9 @@ Esta dinámica tiene 2 objetivos principales:
 
 ## La dinámica
 
-Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
+La vacante a la que la estudiante estarán aspirando es la que encuentras en este [link](https://docs.google.com/document/d/1AQMpRAisd8X1raxhYzW7mviCB1sN42Okg32_ewfgTDI/edit). Es importante que tengas encuenta lo que se describe para la simulación. ¡No te olvides que están en su proceso de aprendizaje aún!
+
+Conviene además recordar que todas las estudiantes tienen un bagaje muy diferente antes
 de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
 totalmente diferentes y siempre vale la pena iniciar una conversación distendida
 para _"romper el hielo"_ y que se sientan más cómodas.
