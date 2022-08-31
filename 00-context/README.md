@@ -91,14 +91,14 @@ ellas y el equipo de Laboratoria.
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
-|                    Actividades                      |   Tipo   | Semana   | Día/hora |
-|-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
-| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
+|                    Actividades                      |   Tipo   |       Semana       |    Día/hora    |
+|-----------------------------------------------------|----------|--------------------|----------------|
+| Sesión de Q&A sobre el programa.                    |   Fija   |        03/Oct      | 6:00PM horaCOL |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |      10-14/Oct     |   A elección   |
+| Sesión de seguimiento al feedback.                  | Abierta  |      17-21/Oct     |   A elección   |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |        21/Oct      |   A elección   |
+| Simulación de entrevista de recursos humanos.       | Abierta  |     24/Oct-4/Nov   |   A elección   |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |        04/Nov      |   A elección   |
 
 ### Objetivos de aprendizaje
 
@@ -127,11 +127,11 @@ documentar feedback para ellas y el equipo de Laboratoria.
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile.**
 
-|                 Actividades                  |   Tipo   | Semana   | Día/hora |
-|----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+|                 Actividades                  |   Tipo   |       Semana       |    Día/hora    |
+|----------------------------------------------|----------|--------------------|----------------|
+| Sesión de Q&A sobre el programa.             |   Fija   |        07/Nov      | 6:00PM horaCOL |
+| Simulación de entrevista técnica.            | Abierta  |      14-25/Nov     |   A elección   |
+| Enviar formulario evaluación y feedback.     | Abierta  |        25/Nov      |   A elección   |
 
 ### Objetivos de aprendizaje
 
